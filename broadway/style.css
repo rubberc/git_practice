@@ -20,6 +20,7 @@ h2 {
     font-family: Helvetica;
     font-size: 23px;
     font-weight: bold;
+    color: white;
   }
 }
 h5 {
@@ -38,3 +39,21 @@ li {
   color: white;
   font-size: 18px;
 }
+h6 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: black;
+  }
+  #copy {
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+  }
+  #nav ul {
+    list-style-type: none;
+      }
+      #nav ul li {
+        display: inline;
+      }
